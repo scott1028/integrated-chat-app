@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/scott1028/redux-practice-pseudo-swag.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/pedoe/chatroom.git
